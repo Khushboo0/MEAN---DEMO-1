@@ -1,0 +1,15 @@
+footer{
+    // position: fixed;
+    background: #F5EFE7;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+    & h1{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        color: #4F709C;
+    }
+}
